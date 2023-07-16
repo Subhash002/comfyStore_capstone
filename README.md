@@ -10,6 +10,8 @@ This document provides a comprehensive description of the features and functiona
 ![image](https://github.com/Subhash002/comfyStore_capstone/assets/29842088/7c30c944-8e47-4694-9925-c34af5aa48fb)
 ![image](https://github.com/Subhash002/comfyStore_capstone/assets/29842088/9a3efc31-c7b9-477c-96ee-059031b8fc4a)
 ![image](https://github.com/Subhash002/comfyStore_capstone/assets/29842088/8ddfc902-4ac0-417b-9c96-cf0c17c46a19)
+![image](https://github.com/Subhash002/comfyStore_capstone/assets/29842088/672ea18f-9f8d-412b-b868-98266dcfaa97)
+![image](https://github.com/Subhash002/comfyStore_capstone/assets/29842088/ab9b4b04-329c-4cf0-9e12-db50b12003fd)
 
 ### Content Management UI
 ![image](https://github.com/Subhash002/comfyStore_capstone/assets/29842088/fdb8b768-4cb1-4487-a00d-ba1c1707dd87)
